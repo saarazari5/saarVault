@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/CS-barIlan/yearA-semesterB/מבנה נתונים תרגיל 3.md",
+            "file": "Notes/CS-barIlan/yearA-semesterB/ליניארית2 תרגיל 6.md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/CS-barIlan/yearA-semesterB/מבנה נתונים תרגיל 3.md",
+                "file": "Notes/CS-barIlan/yearA-semesterB/ליניארית2 תרגיל 6.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/CS-barIlan/yearA-semesterB/מבנה נתונים תרגיל 3.md",
+                "file": "Notes/CS-barIlan/yearA-semesterB/ליניארית2 תרגיל 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/CS-barIlan/yearA-semesterB/מבנה נתונים תרגיל 3.md",
+                "file": "Notes/CS-barIlan/yearA-semesterB/ליניארית2 תרגיל 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/CS-barIlan/yearA-semesterB/מבנה נתונים תרגיל 3.md"
+                "file": "Notes/CS-barIlan/yearA-semesterB/ליניארית2 תרגיל 6.md"
               }
             }
           }
@@ -177,15 +177,15 @@
   },
   "active": "75511304b1bf6e2e",
   "lastOpenFiles": [
-    "Notes/CS-barIlan/yearA-semesterB/מבנה נתונים תרגיל 3.md",
     "Notes/CS-barIlan/yearA-semesterB/ליניארית2 תרגיל 6.md",
+    "Notes/Java/Java.md",
+    "Notes/CS-barIlan/yearA-semesterB/מבנה נתונים תרגיל 3.md",
     "Notes/CS-barIlan/LatexShortcuts.md",
     "Notes/Virtual Methods.md",
     "Notes/CS-barIlan/yearA-semesterB/אינפי 2 תרגיל 7.pdf",
     "Notes/CS-barIlan/yearA-semesterB/אינפי 2 תרגיל 7.md",
     "Notes/Data Structures And algorithems/Asymptotic notations.md",
     "Notes/Data Structures And algorithems/binary search.md",
-    "Notes/Data Structures And algorithems/Linear Data Structures.md",
-    "Notes/Data Structures And algorithems/Linked list.md"
+    "Notes/Data Structures And algorithems/Linear Data Structures.md"
   ]
 }
