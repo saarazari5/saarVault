@@ -33,7 +33,7 @@ VStack {
 })
 
   if counter > 0 {
-   Text("You've tapped Ä(counter) times")
+   Text("You've tapped A(counter) times")
    } else {
    Text("You've not yet tapped")
    }
