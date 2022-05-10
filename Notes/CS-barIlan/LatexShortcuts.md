@@ -55,6 +55,14 @@ $$
 
 * הבסיס הסטנדרטי :
 $S=\Bigg\{\, \big(\ \begin{smallmatrix} 1  \\ 0 \\ 0 \end{smallmatrix}\ \big) \, , \big(\ \begin{smallmatrix} 0  \\ 1 \\ 0 \end{smallmatrix}\ \big)\, , \big(\ \begin{smallmatrix} 0  \\ 0 \\ 1 \end{smallmatrix}\ \big) \Bigg\}$
+
+
+
+
  * () :  $$\big(\ \ \big)$$
 * מכפלה פנימית :
 $$\left\langle\right\rangle$$
+$$\langle{\begin{pmatrix}x_1\\ y_1\\z_1\end{pmatrix},\begin{pmatrix}x_1\\ y_1\\z_1\end{pmatrix}}\rangle$$
+
+* integral : 
+$$\int_b^a \mathrm{e}^{-x}\,\mathrm{d}x$$
