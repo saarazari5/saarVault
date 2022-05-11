@@ -7,9 +7,11 @@
         "id": "75511304b1bf6e2e",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 7.pdf"
+            "file": "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 1.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -69,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 7.pdf",
+                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -118,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 7.pdf",
+                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 7.pdf",
+                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 7.pdf"
+                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 1.md"
               }
             }
           }
@@ -175,6 +177,8 @@
   },
   "active": "75511304b1bf6e2e",
   "lastOpenFiles": [
+    "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 1.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 7.md",
     "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 7.pdf",
     "Notes/CS-barIlan/שנה א/סמסטר ב/סיכומים/2021 ספרון עוזי חרוש לינארית 1+2 תשפא.pdf",
     "Notes/Data Structures And algorithems/Divide and conquer.md",
@@ -182,8 +186,6 @@
     "Notes/CS-barIlan/LatexShortcuts.md",
     "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 3.md",
     "Notes/CS-barIlan/שנה א/סמסטר ב/סיכומים/עוצמות.md",
-    "Notes/IOS/SwiftUI/Thinking in swiftUI summary.md",
-    "Notes/Data Structures And algorithems/array.md",
-    "Notes/Data Structures And algorithems/Recurrence relation.md"
+    "Notes/IOS/SwiftUI/Thinking in swiftUI summary.md"
   ]
 }
