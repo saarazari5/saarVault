@@ -7,11 +7,9 @@
         "id": "75511304b1bf6e2e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Notes/CS-barIlan/yearA-semesterB/ליניארית2 תרגיל 6.md",
-            "mode": "source",
-            "source": false
+            "file": "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 7.pdf"
           }
         }
       }
@@ -71,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/CS-barIlan/yearA-semesterB/ליניארית2 תרגיל 6.md",
+                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 7.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -104,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298,
-    "collapsed": true
+    "width": 298
   },
   "right": {
     "id": "f8e3465f810f0fed",
@@ -121,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/CS-barIlan/yearA-semesterB/ליניארית2 תרגיל 6.md",
+                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 7.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/CS-barIlan/yearA-semesterB/ליניארית2 תרגיל 6.md",
+                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 7.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/CS-barIlan/yearA-semesterB/ליניארית2 תרגיל 6.md"
+                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 7.pdf"
               }
             }
           }
@@ -178,15 +175,15 @@
   },
   "active": "75511304b1bf6e2e",
   "lastOpenFiles": [
-    "Notes/CS-barIlan/yearA-semesterB/ליניארית2 תרגיל 6.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 7.pdf",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/סיכומים/2021 ספרון עוזי חרוש לינארית 1+2 תשפא.pdf",
+    "Notes/Data Structures And algorithems/Divide and conquer.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/ליניארית/ליניארית2 תרגיל 6.md",
     "Notes/CS-barIlan/LatexShortcuts.md",
-    "Notes/CS-barIlan/yearA-semesterB/אינפי 2 תרגיל 7.pdf",
-    "Notes/CS-barIlan/yearA-semesterB/מבנה נתונים תרגיל 3.md",
-    "Notes/CS-barIlan/yearA-semesterB/עוצמות.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 3.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/סיכומים/עוצמות.md",
     "Notes/IOS/SwiftUI/Thinking in swiftUI summary.md",
     "Notes/Data Structures And algorithems/array.md",
-    "Notes/Data Structures And algorithems/Divide and conquer.md",
-    "Notes/Data Structures And algorithems/Recurrence relation.md",
-    "Notes/SOLID.md"
+    "Notes/Data Structures And algorithems/Recurrence relation.md"
   ]
 }
