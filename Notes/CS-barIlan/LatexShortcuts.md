@@ -66,3 +66,8 @@ $$\langle{\begin{pmatrix}x_1\\ y_1\\z_1\end{pmatrix},\begin{pmatrix}x_1\\ y_1\\z
 
 * integral : 
 $$\int_b^a \mathrm{e}^{-x}\,\mathrm{d}x$$
+
+
+* wave above letter
+$$\tilde{S}$$
+$$\widetilde{oo}$$
