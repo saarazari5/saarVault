@@ -11,6 +11,8 @@ $$\underset{\text{text example}}{\operatorname{someOpertaor}}$$
 	$$\displaylines{line1\\line2\\line3\\...}$$
 * empty matrix :
   $$\begin{pmatrix}&&&&\\ &&&&\\ &&&&\\ &&&&\\ &&&&\end{pmatrix}$$
+  * empty 2x2 matrics: 
+    $$\begin{pmatrix}&&\\ && \end{pmatrix}$$
 * general vector
 $$\begin{pmatrix}\\ \\\end{pmatrix}$$
 * general bmatrix : 

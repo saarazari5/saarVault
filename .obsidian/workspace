@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 7.md",
+            "file": "Notes/CS-barIlan/שנה א/סמסטר ב/ליניארית/ליניארית 2 תרגיל 7.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "task",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0e98d298c230dc79",
@@ -72,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 7.md",
+                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/ליניארית/ליניארית 2 תרגיל 7.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 7.md",
+                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/ליניארית/ליניארית 2 תרגיל 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 7.md",
+                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/ליניארית/ליניארית 2 תרגיל 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 7.md"
+                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/ליניארית/ליניארית 2 תרגיל 7.md"
               }
             }
           }
@@ -178,11 +177,12 @@
   },
   "active": "75511304b1bf6e2e",
   "lastOpenFiles": [
-    "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 7.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/ליניארית/ליניארית 2 תרגיל 7.md",
     "Notes/CS-barIlan/LatexShortcuts.md",
-    "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 3.md",
     "Notes/CS-barIlan/שנה א/סמסטר ב/ליניארית/ליניארית2 תרגיל 6.md",
     "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 7.pdf",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 7.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 3.md",
     "Notes/CS-barIlan/שנה א/סמסטר ב/סיכומים/2021 ספרון עוזי חרוש לינארית 1+2 תשפא.pdf",
     "Notes/Data Structures And algorithems/Divide and conquer.md",
     "Notes/CS-barIlan/שנה א/סמסטר ב/סיכומים/עוצמות.md",
