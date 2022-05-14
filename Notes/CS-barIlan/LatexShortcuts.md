@@ -73,3 +73,24 @@ $$\int_b^a \mathrm{e}^{-x}\,\mathrm{d}x$$
 * wave above letter
 $$\tilde{S}$$
 $$\widetilde{oo}$$
+
+* matrix with solution BIG:
+$$
+\left(
+\begin{array}{cccc|c}
+1 & 0 & 3 & -1 & 0 \\
+0 & 1 & 1 & -1 & 0 \\
+0 & 0 & 0 & 0 & 0 \\
+\end{array}
+\right)
+$$
+* matrix with solution : small 
+$$
+\left(
+\begin{array}{cc|c}
+1 & 0 & 3\\
+0 & 1 & 4 \\
+
+\end{array}
+\right)
+$$
