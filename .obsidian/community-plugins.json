@@ -7,10 +7,11 @@
   "templater-obsidian",
   "calendar",
   "folder-note-plugin",
-  "quick-latex",
-  "obsidian-rtl",
   "obsidian-pandoc",
   "table-editor-obsidian",
   "obsidian-git",
-  "obsidian-latex"
+  "obsidian-latex",
+  "obsidian-excalidraw-plugin",
+  "quick-latex",
+  "obsidian-rtl"
 ]

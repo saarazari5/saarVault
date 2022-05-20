@@ -1,0 +1,79 @@
+{
+  "main": {
+    "id": "86622c82d8266e9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "acbfdaf10625c984",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 8.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3987b9faa164743",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "744358701c252ace",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "7b80235633adf33b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "cf55e0f326919de0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f61b9125b0a4db1d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 8.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "acbfdaf10625c984",
+  "lastOpenFiles": [
+    "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 8.md"
+  ]
+}
