@@ -23,5 +23,13 @@
       ],
       "key": "R"
     }
+  ],
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 3.md",
+            "file": "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 8.md",
             "mode": "source",
             "source": false
           }
@@ -19,108 +19,166 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2e7d7b03f34a7f7c",
-    "type": "mobile-drawer",
+    "id": "62086e9275796550",
+    "type": "split",
     "children": [
       {
-        "id": "99f08ce54466d371",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "f53f03dd358c8260",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "8312c7371a0cd87b",
+        "type": "tabs",
+        "dimension": 72.89812067260138,
+        "children": [
+          {
+            "id": "7b6864de9301541e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "749cf7e3bd050526",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f44a0d99fd93b4c2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
+        ]
       },
       {
-        "id": "41c1f8d9adafe656",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        "id": "1b6987def061b7db",
+        "type": "tabs",
+        "dimension": 27.101879327398613,
+        "children": [
+          {
+            "id": "53bb355e92faab94",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 8.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5599438064139983,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 459
   },
   "right": {
-    "id": "c2804c60e5e1bae8",
-    "type": "mobile-drawer",
+    "id": "6f9f4825236166a7",
+    "type": "split",
     "children": [
       {
-        "id": "89c1f931e80523d3",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 3.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "39279a8dc0755481",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65473b9fe7372fd7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f0a12764caabeab3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 8.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "872011b792e64862",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 8.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf2606ab128d89c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 8.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "a0850188c7b2a73d",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 3.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "a49d405294cdaaa4",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 3.md"
-          }
-        }
-      },
-      {
-        "id": "fd07459e173d03cb",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "75511304b1bf6e2e",
   "lastOpenFiles": [
+    "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 8.md",
+    "Notes/Data Structures And algorithems/Linked list.md",
+    "Notes/IOS/Swift heroes - basic of async await.md",
+    "Notes/IOS/Swift/function builders.md",
+    "Notes/IOS/Swift/Swift.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 7.md",
+    "Notes/Data Structures And algorithems/binary search.md",
     "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 3.md",
     "Notes/Untitled.md",
-    "Notes/Data Structures And algorithems/Linked list.md",
-    "Notes/Data Structures And algorithems/Linear Data Structures.md",
-    "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 8.pdf",
-    "Notes/SOLID 2.md",
-    "Notes/CS-barIlan/LatexShortcuts.md",
-    "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 9.md",
-    "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 8.md",
-    "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 7.pdf"
+    "Notes/Data Structures And algorithems/Linear Data Structures.md"
   ]
 }
