@@ -1,19 +1,17 @@
 [
-  "obsidian-admonition",
-  "dataview",
-  "cm-editor-syntax-highlight-obsidian",
-  "obsidian-kanban",
-  "obsidian-plantuml",
   "templater-obsidian",
-  "calendar",
-  "folder-note-plugin",
+  "obsidian-rtl",
+  "quick-latex",
+  "obsidian-plantuml",
   "obsidian-pandoc",
-  "table-editor-obsidian",
+  "obsidian-git",
+  "obsidian-kanban",
+  "folder-note-plugin",
   "obsidian-latex",
   "obsidian-excalidraw-plugin",
-  "obsidian-git",
-  "quick-latex",
-  "obsidian-rtl"
-  "obsidian-latex",
-  "obsidian-excalidraw-plugin"
+  "cm-editor-syntax-highlight-obsidian",
+  "dataview",
+  "calendar",
+  "table-editor-obsidian",
+  "obsidian-admonition"
 ]

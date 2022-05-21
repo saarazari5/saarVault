@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "d897603ba6b730c8",
+    "id": "1f0f6151469fae17",
     "type": "split",
     "children": [
       {
-        "id": "75511304b1bf6e2e",
+        "id": "8e82456025c9cf54",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 8.md",
+            "file": "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 8.md",
             "mode": "source",
             "source": false
           }
@@ -19,16 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "62086e9275796550",
+    "id": "3a7669cb339280ef",
     "type": "split",
     "children": [
       {
-        "id": "8312c7371a0cd87b",
+        "id": "57f36e264054dc06",
         "type": "tabs",
-        "dimension": 72.89812067260138,
         "children": [
           {
-            "id": "7b6864de9301541e",
+            "id": "a8c01dfe48dc9cec",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -36,7 +35,7 @@
             }
           },
           {
-            "id": "749cf7e3bd050526",
+            "id": "fc6f0b99b1bab632",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -51,7 +50,7 @@
             }
           },
           {
-            "id": "f44a0d99fd93b4c2",
+            "id": "04372774c24929ae",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -59,76 +58,26 @@
             }
           }
         ]
-      },
-      {
-        "id": "1b6987def061b7db",
-        "type": "tabs",
-        "dimension": 27.101879327398613,
-        "children": [
-          {
-            "id": "53bb355e92faab94",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 8.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.5599438064139983,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 459
+    "width": 300
   },
   "right": {
-    "id": "6f9f4825236166a7",
+    "id": "21b9475bdab83efd",
     "type": "split",
     "children": [
       {
-        "id": "39279a8dc0755481",
+        "id": "c0334df792f8d7db",
         "type": "tabs",
         "children": [
           {
-            "id": "65473b9fe7372fd7",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "f0a12764caabeab3",
+            "id": "461f9a7f9c6032bb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 8.md",
+                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,25 +89,33 @@
             }
           },
           {
-            "id": "872011b792e64862",
+            "id": "a6f2c8a4a1137ea5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 8.md",
+                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "bf2606ab128d89c2",
+            "id": "b246488939e342c8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 8.md"
+                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 8.md"
               }
+            }
+          },
+          {
+            "id": "8529b8799e2235ce",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -168,26 +125,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "75511304b1bf6e2e",
+  "active": "8e82456025c9cf54",
   "lastOpenFiles": [
-    "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 8.md",
-    "Notes/Data Structures And algorithems/Linked list.md",
-    "Notes/IOS/Swift heroes - basic of async await.md",
-    "Notes/IOS/Swift/function builders.md",
-    "Notes/IOS/Swift/Swift.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 8.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/Drawing 2022-05-21 15.16.45.excalidraw.md",
     "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 7.md",
-    "Notes/Data Structures And algorithems/binary search.md",
-    "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 3.md",
-    "Notes/Untitled.md",
-    "Notes/Data Structures And algorithems/Linear Data Structures.md"
-    "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 7.pdf",
-    "Notes/CS-barIlan/Drawing 2022-05-20 22.11.26.excalidraw.md",
+    "Assets/Pasted Image 20220521225656_609.png",
     "Notes/CS-barIlan/LatexShortcuts.md",
-    "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 7.md",
-    "Notes/CS-barIlan/שנה א/סמסטר ב/ליניארית/ליניארית 2 תרגיל 7.md",
+    "Notes/Java/JUnit.md",
     "Notes/Java/Java.md",
-    "Notes/IOS/Swift heroes - basic of async await.md",
-    "Notes/CS-barIlan/שנה א/סמסטר ב/סיכומים/2021 ספרון עוזי חרוש לינארית 1+2 תשפא.pdf",
-    "Notes/CS-barIlan/שנה א/סמסטר ב/ליניארית/ליניארית2 תרגיל 6.md"
+    "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 8.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 3.md"
   ]
 }
