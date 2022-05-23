@@ -4797,6 +4797,7 @@ var DEFAULT_SETTINGS = {
   header: "",
   debounce: 3,
   localJar: "",
+  javaPath: "java",
   defaultProcessor: "png"
 };
 var PlantUMLSettingsTab = class extends import_obsidian.PluginSettingTab {
@@ -4816,9 +4817,13 @@ var PlantUMLSettingsTab = class extends import_obsidian.PluginSettingTab {
         this.plugin.settings.localJar = value;
         yield this.plugin.saveSettings();
       })));
+      new import_obsidian.Setting(containerEl).setName("Java Path").setDesc("Path to Java executable").addText((text) => text.setPlaceholder(DEFAULT_SETTINGS.javaPath).setValue(this.plugin.settings.javaPath).onChange((value) => __async(this, null, function* () {
+        this.plugin.settings.javaPath = value;
+        yield this.plugin.saveSettings();
+      })));
     }
     new import_obsidian.Setting(containerEl).setName("Default processor for includes").setDesc("Any .pu/.puml files linked will use this processor").addDropdown((dropdown) => {
-      dropdown.addOption("png", "PNG").addOption("svg", "SVG").onChange((value) => __async(this, null, function* () {
+      dropdown.addOption("png", "PNG").addOption("svg", "SVG").setValue(this.plugin.settings.defaultProcessor).onChange((value) => __async(this, null, function* () {
         this.plugin.settings.defaultProcessor = value;
         yield this.plugin.saveSettings();
       }));
@@ -4829,7 +4834,7 @@ var PlantUMLSettingsTab = class extends import_obsidian.PluginSettingTab {
         yield this.plugin.saveSettings();
       }));
       text.inputEl.setAttr("rows", 4);
-      text.inputEl.addClass("settings_area");
+      text.inputEl.addClass("puml-settings-area");
     });
     new import_obsidian.Setting(containerEl).setName("Debounce").setDesc("How often should the diagram refresh in seconds").addText((text) => text.setPlaceholder(String(DEFAULT_SETTINGS.debounce)).setValue(String(this.plugin.settings.debounce)).onChange((value) => __async(this, null, function* () {
       if (!isNaN(Number(value)) || value === void 0) {
@@ -5079,7 +5084,7 @@ var LocalProcessors = class {
         "-charset utf-8",
         "-pipemap"
       ];
-      const child = exec("java " + args.join(" "), { encoding: "binary", cwd: path });
+      const child = exec(this.plugin.settings.javaPath + " " + args.join(" "), { encoding: "binary", cwd: path });
       let stdout = "";
       if (child.stdout) {
         child.stdout.on("data", (data) => {
@@ -5119,9 +5124,9 @@ var LocalProcessors = class {
       ];
       let child;
       if (type === OutputType.PNG) {
-        child = exec("java " + args.join(" "), { encoding: "binary", cwd: path });
+        child = exec(this.plugin.settings.javaPath + " " + args.join(" "), { encoding: "binary", cwd: path });
       } else {
-        child = exec("java " + args.join(" "), { encoding: "utf-8", cwd: path });
+        child = exec(this.plugin.settings.javaPath + " " + args.join(" "), { encoding: "utf-8", cwd: path });
       }
       let stdout;
       let stderr;
