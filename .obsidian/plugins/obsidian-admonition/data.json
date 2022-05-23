@@ -7,7 +7,7 @@
         "name": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABc0lEQVRIS7XVoU4cURTG8d8qFEERFA5M6ROAaYKpo4o06RMArgoDpWBQuMITkDQo6mqaYIAXAAw4FEEhUTQnuZfMzs7u3IHsTdbMnnv+53zznTM9Yz69Mef3FsAcvmEfz20FvgWwhkN8xPU4AC8p6bsAUzhPlUa11ROAG3zGPdbTbwlP9Y6aJJrGBWbxPUHqgJ/YSQ8DcJBgi3isBtcBkfwEn7DRkDzuRgdVQDwLyC+cYbUKqQNuES75gj8NL3ALuw2ACF3BKe4wn+9mQJssOf4KC0MAuZM+uQJQIksVMIOv+DfEon1yBaBNlmqe6CDuhEWzXZs4r3J1AURsACJxAEadPkCpRMv4jYcWwIBEUUnJSw7f/0jrYVgHAzPRxaYZsI29Bn1G2jTHj5IrA5qmv3jQRsk1DNBpVeROJnFZWXaxl/7iQ7JpVaHOy67JfjG9YdE4nb4hpcEZENUetcxA39+lgAls4jgts2JGKaA4YT1w7ID/dOFi+QJTaQEAAAAASUVORK5CYII=",
         "type": "image"
       },
-      "command": true,
+      "command": false,
       "title": "code",
       "injectColor": true,
       "noTitle": false

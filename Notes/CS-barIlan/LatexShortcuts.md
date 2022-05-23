@@ -94,3 +94,5 @@ $$
 \end{array}
 \right)
 $$
+* limits
+$$ \lim_{x\to\infty} f(x)$$
