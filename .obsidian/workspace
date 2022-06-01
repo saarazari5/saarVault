@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8e82456025c9cf54",
+        "id": "0dbee92f2a7758e6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/CS-barIlan/שנה א/סמסטר ב/ליניארית/ליניארית 2 תרגיל 8.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/ליניארית/ליניארית 2 תרגיל 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/ליניארית/ליניארית 2 תרגיל 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/ליניארית/ליניארית 2 תרגיל 8.md"
-              }
+              "state": {}
             }
           },
           {
@@ -125,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8e82456025c9cf54",
+  "active": "0dbee92f2a7758e6",
   "lastOpenFiles": [
-    "Notes/CS-barIlan/שנה א/סמסטר ב/ליניארית/ליניארית 2 תרגיל 8.md",
-    "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 8.md",
+    "Notes/Data Structures And algorithems/Divide and conquer.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 4.md",
+    "Notes/Java/Static and Dynamic Binding.md",
     "Notes/CS-barIlan/LatexShortcuts.md",
-    "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 9.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/ליניארית/ליניארית 2 תרגיל 8.md",
     "Notes/Java/Java.md",
-    "Notes/Untitled.md",
-    "Notes/CS-barIlan/שנה א/סמסטר ב/ליניארית/ליניארית 2 תרגיל 6.md",
-    "Notes/Java/Testing In Java.md",
-    "Notes/<% tp.date.now(\"YYYY-MM-DD_ddd\", 1, tp.file.title, \"YYYY-MM-DD\") %>.md",
-    "Notes/<% tp.file.title %>.md"
+    "Notes/Data Structures And algorithems/Asymptotic notations.md",
+    "Notes/Data Structures And algorithems/Linear Data Structures.md",
+    "Notes/Data Structures And algorithems/Recurrence relation.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 8.md"
   ]
 }
