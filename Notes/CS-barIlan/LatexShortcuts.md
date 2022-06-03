@@ -56,8 +56,9 @@ $$
 
 
 * הבסיס הסטנדרטי :
-$S=\Bigg\{\, \big(\ \begin{smallmatrix} 1  \\ 0 \\ 0 \end{smallmatrix}\ \big) \, , \big(\ \begin{smallmatrix} 0  \\ 1 \\ 0 \end{smallmatrix}\ \big)\, , \big(\ \begin{smallmatrix} 0  \\ 0 \\ 1 \end{smallmatrix}\ \big) \Bigg\}$
 
+$S=\Bigg\{\, \big(\ \begin{smallmatrix} 1  \\ 0 \\ 0 \end{smallmatrix}\ \big) \, , \big(\ \begin{smallmatrix} 0  \\ 1 \\ 0 \end{smallmatrix}\ \big)\, , \big(\ \begin{smallmatrix} 0  \\ 0 \\ 1 \end{smallmatrix}\ \big) \Bigg\}$
+* $$B=\Bigg\{\, \Bigg(\ \begin{smallmatrix} 1  \\ 0 \\ 0\\ 0 \end{smallmatrix}\ \Bigg) \, , \Bigg(\ \begin{smallmatrix} 0  \\ \frac{2}{\sqrt{6}} \\ \frac{1}{\sqrt{6}} \\ \frac{1}{\sqrt{6}}\end{smallmatrix}\ \Bigg)\, , \Bigg(\ \begin{smallmatrix} 0  \\ \frac{-\sqrt{30}}{18} \\ \sqrt{30} \\-\frac{1}{\sqrt{30}}\end{smallmatrix}\ \Bigg) \Bigg\}$$
 
 
 

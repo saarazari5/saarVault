@@ -1,5 +1,5 @@
 ---
-dateCreated: "<% tp.file.creation_date() %>"
+dateCreated: "2022-05-06 01:17"
 tags: [declarative_mobile, async/await]
 ---
 Note Created: <%+ tp.file.creation_date() %>

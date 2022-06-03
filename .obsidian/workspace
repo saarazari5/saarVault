@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 9.md",
+            "file": "Notes/CS-barIlan/שנה א/סמסטר ב/ליניארית/ליניארית 2 תרגיל 8.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3a7669cb339280ef",
+    "id": "ef7efea464a50846",
     "type": "split",
     "children": [
       {
-        "id": "57f36e264054dc06",
+        "id": "f513f1b3102f8362",
         "type": "tabs",
         "children": [
           {
-            "id": "a8c01dfe48dc9cec",
+            "id": "860535fb3172d718",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "fc6f0b99b1bab632",
+            "id": "bbc9f7c7b0352513",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "04372774c24929ae",
+            "id": "7099e59ce54e6824",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,20 +64,20 @@
     "width": 300
   },
   "right": {
-    "id": "21b9475bdab83efd",
+    "id": "6d73c1f0ae590c37",
     "type": "split",
     "children": [
       {
-        "id": "c0334df792f8d7db",
+        "id": "00c61c12240acfc5",
         "type": "tabs",
         "children": [
           {
-            "id": "461f9a7f9c6032bb",
+            "id": "f32eabd6e38b9391",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 9.md",
+                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/ליניארית/ליניארית 2 תרגיל 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,29 +89,29 @@
             }
           },
           {
-            "id": "a6f2c8a4a1137ea5",
+            "id": "b3363a035b842d5c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 9.md",
+                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/ליניארית/ליניארית 2 תרגיל 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b246488939e342c8",
+            "id": "53c69a6de5889d1c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 9.md"
+                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/ליניארית/ליניארית 2 תרגיל 8.md"
               }
             }
           },
           {
-            "id": "8529b8799e2235ce",
+            "id": "07066812b09d55ce",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -127,15 +127,15 @@
   },
   "active": "8e82456025c9cf54",
   "lastOpenFiles": [
+    "Notes/CS-barIlan/שנה א/סמסטר ב/ליניארית/ליניארית 2 תרגיל 8.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 8.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 5.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 7.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 9.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 10.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 4.md",
     "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 9.md",
     "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 7.pdf",
-    "Notes/CS-barIlan/שנה א/סמסטר ב/סיכומים/עוצמות.md",
-    "Notes/CS-barIlan/LatexShortcuts.md",
-    "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 3.md",
-    "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 8.md",
-    "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/Drawing 2022-05-22 19.34.04.excalidraw.md",
-    "בדידה 2 תרגיל 8.pdf",
-    "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/Drawing 2022-05-21 15.16.45.excalidraw.md",
-    "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 7.md"
+    "Notes/CS-barIlan/שנה א/סמסטר ב/סיכומים/עוצמות.md"
   ]
 }
