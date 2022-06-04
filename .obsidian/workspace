@@ -7,27 +7,23 @@
         "id": "8e82456025c9cf54",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 3.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ef7efea464a50846",
+    "id": "96ddbf1eab368cf9",
     "type": "split",
     "children": [
       {
-        "id": "f513f1b3102f8362",
+        "id": "09c64de437de6998",
         "type": "tabs",
         "children": [
           {
-            "id": "860535fb3172d718",
+            "id": "69651fb4480febfb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +31,7 @@
             }
           },
           {
-            "id": "bbc9f7c7b0352513",
+            "id": "02aa2fb61da1bd16",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +46,7 @@
             }
           },
           {
-            "id": "7099e59ce54e6824",
+            "id": "745ee6ccef65ecaf",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,20 +60,27 @@
     "width": 300
   },
   "right": {
-    "id": "6d73c1f0ae590c37",
+    "id": "38cf47bb6ea11a97",
     "type": "split",
     "children": [
       {
-        "id": "00c61c12240acfc5",
+        "id": "5f177055ef1e51ad",
         "type": "tabs",
         "children": [
           {
-            "id": "f32eabd6e38b9391",
+            "id": "cb15e6edf1298a55",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "77c1e9f61f818bda",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,32 +92,21 @@
             }
           },
           {
-            "id": "b3363a035b842d5c",
+            "id": "3b67abc048f87551",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "53c69a6de5889d1c",
+            "id": "ac6da2554fed9b1f",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 3.md"
-              }
-            }
-          },
-          {
-            "id": "07066812b09d55ce",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           }
@@ -127,6 +119,7 @@
   },
   "active": "8e82456025c9cf54",
   "lastOpenFiles": [
+    "Notes/IOS/Login with facebook.md",
     "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 3.md",
     "Notes/CS-barIlan/שנה א/סמסטר ב/ליניארית/ליניארית 2 תרגיל 8.md",
     "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 8.md",
@@ -135,7 +128,6 @@
     "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 9.md",
     "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 10.md",
     "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 4.md",
-    "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 9.md",
-    "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 7.pdf"
+    "Notes/CS-barIlan/שנה א/סמסטר ב/אינפי/אינפי 2 תרגיל 9.md"
   ]
 }
