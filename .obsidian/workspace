@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 3.md",
+            "file": "Notes/Data Structures And algorithems/Count Sort.md",
             "mode": "source",
             "source": false
           }
@@ -19,108 +19,123 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "39a897be9c6a892c",
-    "type": "mobile-drawer",
+    "id": "6d304b17c4d40dc0",
+    "type": "split",
     "children": [
       {
-        "id": "7e97c604b880a8b1",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "13e03f0710a4b97a",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "d1b0b2f5e9778964",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e93e9678cb74d7d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd0867859366b210",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6409163a93fb795f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "7e52f18065e90411",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "fb20c5d9ec3d6c5f",
-    "type": "mobile-drawer",
+    "id": "1f78f8e47030ed82",
+    "type": "split",
     "children": [
       {
-        "id": "4bb5e2516b314444",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "9c4a1d522dccc181",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 3.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "148ac89569a21dbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d8dbb0fd8d62e36",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "16620b6235060559",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Data Structures And algorithems/Count Sort.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91a53321c2fa9d23",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Data Structures And algorithems/Count Sort.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8694df63c1bbfb2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Data Structures And algorithems/Count Sort.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "0f383c533aa41c77",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 3.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "c768101723bc7934",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 3.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "8e82456025c9cf54",
   "lastOpenFiles": [
-    "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 3.md",
     "Notes/Data Structures And algorithems/Count Sort.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה תרגיל 9.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה 2 תרגיל 8.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/Drawing 2022-06-10 20.02.30.excalidraw.md",
+    "Notes/Data Structures And algorithems/radix sort.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 3.md",
     "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 5.md",
     "Notes/IOS/Swift/function builders.md",
     "Notes/Java/Java.md",
-    "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה תרגיל 9.md",
-    "Notes/Data Structures And algorithems/radix sort.md",
-    "Notes/In Place algorithm.md",
-    "Templates/General Template.md",
-    "Templates/Meetings Template.md"
+    "Notes/In Place algorithm.md"
   ]
 }

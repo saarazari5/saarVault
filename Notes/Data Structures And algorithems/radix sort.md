@@ -7,7 +7,7 @@ Note Last Modified: <%+ tp.file.last_modified_date() %> %%Will render in Reading
 Related Notes: 
 
 # [[radix sort]]
-[[Count sort]] is a linear time sorting algorithm that sort in O(n+k) time when elements are in the range from 1 to k.
+[[Count Sort]] is a linear time sorting algorithm that sort in O(n+k) time when elements are in the range from 1 to k.
 
 _**What if the elements are in**_ **the** _**range from 1 to n2?**_   
 We can’t use counting sort because counting sort will take O(n2) which is worse than comparison-based sorting algorithms. Can we sort such an array in linear time? 
