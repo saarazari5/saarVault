@@ -7,11 +7,9 @@
         "id": "8e82456025c9cf54",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה תרגיל 9.md",
-            "mode": "source",
-            "source": false
+            "file": "Notes/CS-barIlan/שנה א/סמסטר ב/סיכומים/2021 ספרון עוזי חרוש לינארית 1+2 תשפא.pdf"
           }
         }
       }
@@ -19,15 +17,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "594e0022ec14502e",
+    "id": "03e9da300e106f8d",
     "type": "split",
     "children": [
       {
-        "id": "bb48dd1ba8ba43d0",
+        "id": "7df2c93081b92423",
         "type": "tabs",
         "children": [
           {
-            "id": "d1026c8d522b4b8d",
+            "id": "d614bd34ecf309b2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +33,7 @@
             }
           },
           {
-            "id": "f7ee2f7e1ab3dac7",
+            "id": "a9123520b3f7e84a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +48,7 @@
             }
           },
           {
-            "id": "72bf02d097c14ac9",
+            "id": "bb461542e31bdfdb",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,15 +62,15 @@
     "width": 300
   },
   "right": {
-    "id": "98e650b3c71f5151",
+    "id": "1c8e9e3213117a9a",
     "type": "split",
     "children": [
       {
-        "id": "d4c2a41ede8b3711",
+        "id": "89d0b12810636bdf",
         "type": "tabs",
         "children": [
           {
-            "id": "d06032df18cd0891",
+            "id": "b1c68511fb69e983",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -80,12 +78,12 @@
             }
           },
           {
-            "id": "440af66fceee52c1",
+            "id": "4ebed854e7513f08",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה תרגיל 9.md",
+                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/סיכומים/2021 ספרון עוזי חרוש לינארית 1+2 תשפא.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,24 +95,24 @@
             }
           },
           {
-            "id": "8669e965251ebc5f",
+            "id": "2197070d45e7d1a1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה תרגיל 9.md",
+                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/סיכומים/2021 ספרון עוזי חרוש לינארית 1+2 תשפא.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8e55d54fe9bdc195",
+            "id": "72765cc6e0effeb1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה תרגיל 9.md"
+                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/סיכומים/2021 ספרון עוזי חרוש לינארית 1+2 תשפא.pdf"
               }
             }
           }
@@ -127,15 +125,15 @@
   },
   "active": "8e82456025c9cf54",
   "lastOpenFiles": [
+    "Notes/CS-barIlan/שנה א/סמסטר ב/סיכומים/2021 ספרון עוזי חרוש לינארית 1+2 תשפא.pdf",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/ליניארית/ליניארית 2 תרגיל 6.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/סיכומים/עוצמות.md",
     "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/בדידה תרגיל 9.md",
     "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 5.md",
     "Notes/Java/Tree map.md",
     "Notes/Java/Java.md",
     "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/Drawing 2022-06-10 20.02.30.excalidraw.md",
     "Notes/Data Structures And algorithems/Count Sort.md",
-    "Notes/Data Structures And algorithems/radix sort.md",
-    "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 3.md",
-    "Notes/IOS/Swift/function builders.md",
-    "Notes/In Place algorithm.md"
+    "Notes/Data Structures And algorithems/radix sort.md"
   ]
 }
