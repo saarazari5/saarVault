@@ -10,7 +10,7 @@ Related Notes:
 
 ## Static binding
 In Java static binding refers to the execution of a program where type of object is determined/known at compile time i.e when compiler executes the code it know the type of object or class to which object belongs.
--   private, final and static members (methods and variables) use static binding while for [[virtual methods]] (In Java methods are virtual by default) binding is done during run time based upon the run time object.
+-   private, final and static members (methods and variables) use static binding while for [[Virtual Methods]] (In Java methods are virtual by default) binding is done during run time based upon the run time object.
 
 __The binding which can be resolved at compile time by the compiler is known as static or early binding. The binding of all the static, private, and final methods is done at compile-time.__
 ```Java
