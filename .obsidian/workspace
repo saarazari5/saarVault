@@ -15,95 +15,111 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "25c06ec6e07663a3",
-    "type": "mobile-drawer",
+    "id": "03e9da300e106f8d",
+    "type": "split",
     "children": [
       {
-        "id": "3bc6002504d8b86d",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "5b20c65091af9a59",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "7df2c93081b92423",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d614bd34ecf309b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a9123520b3f7e84a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb461542e31bdfdb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "416924ce7b407543",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "1bade72da3b3c277",
-    "type": "mobile-drawer",
+    "id": "1c8e9e3213117a9a",
+    "type": "split",
     "children": [
       {
-        "id": "34b81e07c745dcf4",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "80f8011ce7f8328b",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "89d0b12810636bdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1c68511fb69e983",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4ebed854e7513f08",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2197070d45e7d1a1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "72765cc6e0effeb1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "3f760215f438a08a",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "dafb83c2fdded618",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "8e82456025c9cf54",
   "lastOpenFiles": [
+    "Notes/מכתב התפטרות.md",
     "Notes/Data Structures And algorithems/Dynamic Programming/Dynamic Programming.md",
     "Notes/Data Structures And algorithems/Dynamic Programming/Dynamic Programming.pdf",
     "Notes/[.md",
@@ -112,7 +128,6 @@
     "Notes/Data Structures And algorithems/Count Sort.md",
     "Notes/Data Structures And algorithems/array.md",
     "Notes/Data Structures And algorithems/Divide and conquer.md",
-    "Notes/Data Structures And algorithems/Dynamic programming.md",
-    "Notes/Data Structures And algorithems/Linear Data Structures.md"
+    "Notes/Data Structures And algorithems/Dynamic programming.md"
   ]
 }
