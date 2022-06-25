@@ -182,7 +182,7 @@ we should try make it easier by switching variables:
 
 mark $m=logn$ and notice that: $2^m=n$ now:
 
-$$\displaylines{T(2^m)=T(2^{\frac{m}{2}})+m
+$$\displaylines{T(2^m)=2T(2^{\frac{m}{2}})+m
 \\  \text{mark: }S(m)=T(2^m)
 \\ \downarrow \\
 S(m)=2S(\frac{m}{2})+m}$$
