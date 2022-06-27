@@ -19,124 +19,108 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "03e9da300e106f8d",
-    "type": "split",
+    "id": "6d92820ced403203",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "7df2c93081b92423",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d614bd34ecf309b2",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "a9123520b3f7e84a",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "bb461542e31bdfdb",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "ecf2b55c8e6a5157",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "d3ec77d54f5b46c1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "b612922770ebb012",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "right": {
-    "id": "1c8e9e3213117a9a",
-    "type": "split",
+    "id": "0129fef71093bbb4",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "89d0b12810636bdf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b1c68511fb69e983",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "4ebed854e7513f08",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Notes/Data Structures And algorithems/מבנה נתונים ואלגוריתמיקה - טומי קליין - סיכום הספרים.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "2197070d45e7d1a1",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Notes/Data Structures And algorithems/מבנה נתונים ואלגוריתמיקה - טומי קליין - סיכום הספרים.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "72765cc6e0effeb1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Notes/Data Structures And algorithems/מבנה נתונים ואלגוריתמיקה - טומי קליין - סיכום הספרים.md"
-              }
-            }
+        "id": "8c5eefe23358c0e9",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "8ce5c59da2f5f87e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Notes/Data Structures And algorithems/מבנה נתונים ואלגוריתמיקה - טומי קליין - סיכום הספרים.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "9e9565b391994339",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Notes/Data Structures And algorithems/מבנה נתונים ואלגוריתמיקה - טומי קליין - סיכום הספרים.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "befcdbac7da5ca64",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Notes/Data Structures And algorithems/מבנה נתונים ואלגוריתמיקה - טומי קליין - סיכום הספרים.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "8e82456025c9cf54",
   "lastOpenFiles": [
     "Notes/Data Structures And algorithems/מבנה נתונים ואלגוריתמיקה - טומי קליין - סיכום הספרים.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 5.md",
+    "Notes/Data Structures And algorithems/Divide and conquer.md",
+    "Notes/Data Structures And algorithems/Dynamic Programming/Dynamic Programming.md",
     "Notes/Data Structures And algorithems/Drawing 2022-06-22 19.39.58.excalidraw.md",
     "Notes/Data Structures And algorithems/Recurrence relation.md",
     "Excalidraw/Drawing 2022-06-25 15.12.41.excalidraw.md",
     "Notes/Data Structures And algorithems/array.md",
     "Notes/Data Structures And algorithems/Asymptotic notations.md",
-    "Notes/CS-barIlan/LatexShortcuts.md",
-    "Notes/merge sort.md",
-    "Notes/Data Structures And algorithems/Divide and conquer.md",
-    "Notes/IOS/Swift heroes - basic of async await 1.md"
+    "Notes/CS-barIlan/LatexShortcuts.md"
   ]
 }
