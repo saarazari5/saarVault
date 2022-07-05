@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8e82456025c9cf54",
+        "id": "79fb7eabf8c6d0de",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/סיכום למבחן בדידה 2.md",
+            "file": "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/מבחנים/מועד א 2020.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/סיכום למבחן בדידה 2.md",
+                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/מבחנים/מועד א 2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/סיכום למבחן בדידה 2.md",
+                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/מבחנים/מועד א 2020.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/סיכום למבחן בדידה 2.md"
+                "file": "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/מבחנים/מועד א 2020.md"
               }
             }
           }
@@ -125,17 +125,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8e82456025c9cf54",
+  "active": "79fb7eabf8c6d0de",
   "lastOpenFiles": [
+    "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/מבחנים/מועד א 2020.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/מבחנים/2021 מועד א.md",
     "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/סיכום למבחן בדידה 2.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/מבחנים/מועד ב 2021.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/תרגילים למבחן.md",
+    "Notes/CS-barIlan/שנה א/סמסטר ב/בדידה/Drawing 2022-07-04 17.40.32.excalidraw.md",
     "Notes/CS-barIlan/שנה א/סמסטר ב/סיכומים/עוצמות.md",
     "Notes/CS-barIlan/LatexShortcuts.md",
     "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבחנים/2019 מועד ב.md",
-    "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבחנים/מועד ב 2020.md",
-    "Notes/Data Structures And algorithems/מבנה נתונים ואלגוריתמיקה - טומי קליין - סיכום הספרים.md",
-    "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבנה נתונים תרגיל 6.md",
-    "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבחנים/שאלות בתכנון דינאמי.md",
-    "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבחנים/2021 מועד א.md",
-    "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבחנים/מועד א 2019.md"
+    "Notes/CS-barIlan/שנה א/סמסטר ב/מבנה נתונים/מבחנים/מועד ב 2020.md"
   ]
 }
